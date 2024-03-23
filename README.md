@@ -1,7 +1,5 @@
 # Full Stack Web Development in the Cloud
 
-This repository contains the source code for the [Full Stack Web Development in the Cloud](https://youtu.be/OUzaUJ3gEug) course.
-
 ## Architecture
 
 The diagram below outlines the high-level architecture and the hosting providers for the web application, API and database.
